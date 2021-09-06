@@ -1,0 +1,4 @@
+.vscode/
+*.zip
+*.blend
+__pycache__
